@@ -4,7 +4,7 @@ Repository for the code used for the first-year summer paper at CMU.
 
 Here is a list of variables of the Category Tree data set from Keepa.com:
 
-Locale
+Locale\n
 Image
 Title
 Sales Rank: Current
