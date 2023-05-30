@@ -3,9 +3,9 @@ Repository for the code used for the first-year summer paper at CMU.
 
 Here is a list of variables of the Seller data from Keepa.com:
 
-*Name
+* Name
 
-*Review Count: Lifetime
+* Review Count: Lifetime
 
 *Review Count: 30 Days
 
