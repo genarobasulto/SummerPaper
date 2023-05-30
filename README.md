@@ -7,336 +7,336 @@ Here is a list of variables of the Seller data from Keepa.com:
 
 * Review Count: Lifetime
 
-*Review Count: 30 Days
+* Review Count: 30 Days
 
-*Review Count: 90 Days
+* Review Count: 90 Days
 
-*Review Count: 180 Days
+* Review Count: 180 Days
 
-*Review Count: Lifetime_1
+* Review Count: Lifetime_1
 
-*Review Count: 30 Days_1
+* Review Count: 30 Days_1
 
-*Review Count: 90 Days_1
+* Review Count: 90 Days_1
 
-*Review Count: 180 Days_1
+* Review Count: 180 Days_1
 
-*Uses FBA
+* Uses FBA
 
-*Verified Listings
+* Verified Listings
 
-*Selling primarily: Category
+* Selling primarily: Category
 
-*Selling primarily: Brand
+* Selling primarily: Brand
 
-*Seller Id
+* Seller Id
 
-*Country
+* Country
 
 Here is a list of variables of the Category Tree data set from Keepa.com:
 
-*Locale
+* Locale
 
-*Image
+* Image
 
-*Title
+* Title
 
-*Sales Rank: Current
+* Sales Rank: Current
 
-*Sales Rank: 90 days avg.
+* Sales Rank: 90 days avg.
 
-*Sales Rank: 90 days drop %
+* Sales Rank: 90 days drop %
 
-*Sales Rank: Drops last 30 days
+* Sales Rank: Drops last 30 days
 
-*Sales Rank: Drops last 90 days
+* Sales Rank: Drops last 90 days
 
-*Sales Rank: Drops last 180 days
+* Sales Rank: Drops last 180 days
 
-*Sales Rank: Reference
+* Sales Rank: Reference
 
-*Sales Rank: Subcategory Sales Ranks
+* Sales Rank: Subcategory Sales Ranks
 
-*Reviews: Rating
+* Reviews: Rating
 
-*Reviews: Review Count
+* Reviews: Review Count
 
-*Ratings - Format Specific
+* Ratings - Format Specific
 
-*Review Count - Format Specific
+* Review Count - Format Specific
 
-*Last Price Change
+* Last Price Change
 
-*Buy Box 🚚: Current
+* Buy Box 🚚: Current
 
-*Buy Box 🚚: 90 days avg.
+* Buy Box 🚚: 90 days avg.
 
-*Buy Box 🚚: 90 days drop %
+* Buy Box 🚚: 90 days drop %
 
-*Buy Box 🚚: Stock
+* Buy Box 🚚: Stock
 
-*Buy Box 🚚: 90 days OOS
+* Buy Box 🚚: 90 days OOS
 
-*Buy Box Seller
+* Buy Box Seller
 
-*Buy Box: Is FBA
+* Buy Box: Is FBA
 
-*Buy Box: Unqualified
+* Buy Box: Unqualified
 
-*Amazon: Current
+* Amazon: Current
 
-*Amazon: 90 days avg.
+* Amazon: 90 days avg.
 
-*Amazon: 90 days drop %
+* Amazon: 90 days drop %
 
-*Amazon: 90 days OOS
+* Amazon: 90 days OOS
 
-*New: Current
+* New: Current
 
-*New: 90 days avg.
+* New: 90 days avg.
 
-*New: 90 days drop %
+* New: 90 days drop %
 
-*New: 90 days OOS
+* New: 90 days OOS
 
-*New, 3rd Party FBA: Current
+* New, 3rd Party FBA: Current
 
-*New, 3rd Party FBA: 90 days avg.
+* New, 3rd Party FBA: 90 days avg.
 
-*New, 3rd Party FBA: 90 days drop %
+* New, 3rd Party FBA: 90 days drop %
 
-*FBA Pick&Pack Fee
+* FBA Pick&Pack Fee
 
-*Referral Fee %
+* Referral Fee %
 
-*Referral Fee based on current Buy Box price
+* Referral Fee based on current Buy Box price
 
-*New, 3rd Party FBM 🚚: Current
+* New, 3rd Party FBM 🚚: Current
 
-*New, 3rd Party FBM 🚚: 90 days avg.
+* New, 3rd Party FBM 🚚: 90 days avg.
 
-*New, 3rd Party FBM 🚚: 90 days drop %
+* New, 3rd Party FBM 🚚: 90 days drop %
 
-*New, Prime exclusive: Current
+* New, Prime exclusive: Current
 
-*New, Prime exclusive: 90 days avg.
+* New, Prime exclusive: 90 days avg.
 
-*New, Prime exclusive: 90 days drop %
+* New, Prime exclusive: 90 days drop %
 
-*Lightning Deals: Current
+* Lightning Deals: Current
 
-*Lightning Deals: Upcoming Deal
+* Lightning Deals: Upcoming Deal
 
-*Buy Box Used 🚚: Current
+* Buy Box Used 🚚: Current
 
-*Buy Box Used 🚚: 90 days avg.
+* Buy Box Used 🚚: 90 days avg.
 
-*Buy Box Used 🚚: 90 days drop %
+* Buy Box Used 🚚: 90 days drop %
 
-*Buy Box Used Seller
+* Buy Box Used Seller
 
-*Buy Box Used: Is FBA
+* Buy Box Used: Is FBA
 
-*Buy Box Used: Condition
+* Buy Box Used: Condition
 
-*Used: Current
+* Used: Current
 
-*Used: 90 days avg.
+* Used: 90 days avg.
 
-*Used: 90 days drop %
+* Used: 90 days drop %
 
-*Used: 90 days OOS
+* Used: 90 days OOS
 
-*Used, like new 🚚: Current
+* Used, like new 🚚: Current
 
-*Used, like new 🚚: 90 days avg.
+* Used, like new 🚚: 90 days avg.
 
-*Used, like new 🚚: 90 days drop %
+* Used, like new 🚚: 90 days drop %
 
-*Used, very good 🚚: Current
+* Used, very good 🚚: Current
 
-*Used, very good 🚚: 90 days avg.
+* Used, very good 🚚: 90 days avg.
 
-*Used, very good 🚚: 90 days drop %
+* Used, very good 🚚: 90 days drop %
 
-*Used, good 🚚: Current
+* Used, good 🚚: Current
 
-*Used, good 🚚: 90 days avg.
+* Used, good 🚚: 90 days avg.
 
-*Used, good 🚚: 90 days drop %
+* Used, good 🚚: 90 days drop %
 
-*Used, acceptable 🚚: Current
+* Used, acceptable 🚚: Current
 
-*Used, acceptable 🚚: 90 days avg.
+* Used, acceptable 🚚: 90 days avg.
 
-*Used, acceptable 🚚: 90 days drop %
+* Used, acceptable 🚚: 90 days drop %
 
-*Warehouse Deals: Current
+* Warehouse Deals: Current
 
-*Warehouse Deals: 90 days avg.
+* Warehouse Deals: 90 days avg.
 
-*Warehouse Deals: 90 days drop %
+* Warehouse Deals: 90 days drop %
 
-*Refurbished: Current
+* Refurbished: Current
 
-*Refurbished: 90 days avg.
+* Refurbished: 90 days avg.
 
-*Refurbished: 90 days drop %
+* Refurbished: 90 days drop %
 
-*Collectible: Current
+* Collectible: Current
 
-*Collectible: 90 days avg.
+* Collectible: 90 days avg.
 
-*Collectible: 90 days drop %
+* Collectible: 90 days drop %
 
-*List Price: Current
+* List Price: Current
 
-*List Price: 90 days avg.
+* List Price: 90 days avg.
 
-*List Price: 90 days drop %
+* List Price: 90 days drop %
 
-*Trade-In: Current
+* Trade-In: Current
 
-*Trade-In: 90 days avg.
+* Trade-In: 90 days avg.
 
-*Trade-In: 90 days drop %
+* Trade-In: 90 days drop %
 
-*eBay New 🚚: Current
+* eBay New 🚚: Current
 
-*eBay New 🚚: 90 days avg.
+* eBay New 🚚: 90 days avg.
 
-*eBay New 🚚: 90 days drop %
+* eBay New 🚚: 90 days drop %
 
-*eBay Used 🚚: Current
+* eBay Used 🚚: Current
 
-*eBay Used 🚚: 90 days avg.
+* eBay Used 🚚: 90 days avg.
 
-*eBay Used 🚚: 90 days drop %
+* eBay Used 🚚: 90 days drop %
 
-*New Offer Count: Current
+* New Offer Count: Current
 
-*New Offer Count: 30 days avg.
+* New Offer Count: 30 days avg.
 
-*New Offer Count: 90 days avg.
+* New Offer Count: 90 days avg.
 
-*New Offer Count: 180 days avg.
+* New Offer Count: 180 days avg.
 
-*New Offer Count: 90 days drop %
+* New Offer Count: 90 days drop %
 
-*Count of retrieved live offers: New, FBA
+* Count of retrieved live offers: New, FBA
 
-*Count of retrieved live offers: New, FBM
+* Count of retrieved live offers: New, FBM
 
-*Used Offer Count: Current
+* Used Offer Count: Current
 
-*Used Offer Count: 30 days avg.
+* Used Offer Count: 30 days avg.
 
-*Used Offer Count: 90 days avg.
+* Used Offer Count: 90 days avg.
 
-*Used Offer Count: 180 days avg.
+* Used Offer Count: 180 days avg.
 
-*Used Offer Count: 90 days drop %
+* Used Offer Count: 90 days drop %
 
-*Refurbished Offer Count: Current
+* Refurbished Offer Count: Current
 
-*Refurbished Offer Count: 30 days avg.
+* Refurbished Offer Count: 30 days avg.
 
-*Refurbished Offer Count: 90 days avg.
+* Refurbished Offer Count: 90 days avg.
 
-*Refurbished Offer Count: 180 days avg.
+* Refurbished Offer Count: 180 days avg.
 
-*Refurbished Offer Count: 90 days drop %
+* Refurbished Offer Count: 90 days drop %
 
-*Collectible Offer Count: Current
+* Collectible Offer Count: Current
 
-*Collectible Offer Count: 30 days avg.
+* Collectible Offer Count: 30 days avg.
 
-*Collectible Offer Count: 90 days avg.
+* Collectible Offer Count: 90 days avg.
 
-*Collectible Offer Count: 180 days avg.
+* Collectible Offer Count: 180 days avg.
 
-*Collectible Offer Count: 90 days drop %
+* Collectible Offer Count: 90 days drop %
 
-*Tracking since
+* Tracking since
 
-*Listed since
+* Listed since
 
-*Categories: Root
+* Categories: Root
 
-*Categories: Sub
+* Categories: Sub
 
-*Categories: Tree
+* Categories: Tree
 
-*Categories: Launchpad
+* Categories: Launchpad
 
-*ASIN
+* ASIN
 
-*Product Codes: EAN
+* Product Codes: EAN
 
-*Product Codes: UPC
+* Product Codes: UPC
 
-*Product Codes: PartNumber
+* Product Codes: PartNumber
 
-*Parent ASIN
+* Parent ASIN
 
-*Variation ASINs
+* Variation ASINs
 
-*Freq. Bought Together
+* Freq. Bought Together
 
-*Manufacturer
+* Manufacturer
 
-*Brand
+* Brand
 
-*Product Group
+* Product Group
 
-*Model
+* Model
 
-*Variation Attributes
+* Variation Attributes
 
-*Color
+* Color
 
-*Size
+* Size
 
-*Edition
+* Edition
 
-*Format
+* Format
 
-*Author
+* Author
 
-*Contributors
+* Contributors
 
-*Binding
+* Binding
 
-*Number of Items
+* Number of Items
 
-*Number of Pages
+* Number of Pages
 
-*Publication Date
+* Publication Date
 
-*Release Date
+* Release Date
 
-*Languages
+* Languages
 
-*Package: Dimension (cm³)
+* Package: Dimension (cm³)
 
-*Package: Weight (g)
+* Package: Weight (g)
 
-*Package: Quantity
+* Package: Quantity
 
-*Item: Dimension (cm³)
+* Item: Dimension (cm³)
 
-*Item: Weight (g)
+* Item: Weight (g)
 
-*Adult Product
+* Adult Product
 
-*Trade-In Eligible
+* Trade-In Eligible
 
-*Prime Eligible (Buy Box)
+* Prime Eligible (Buy Box)
 
-*Subscribe and Save
+* Subscribe and Save
 
-*One Time Coupon: Absolute
+* One Time Coupon: Absolute
 
-*One Time Coupon: Percentage
+* One Time Coupon: Percentage
 
-*Subscribe and Save Coupon: Percentage
+* Subscribe and Save Coupon: Percentage
